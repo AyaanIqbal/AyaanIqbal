@@ -7,7 +7,7 @@ I've worked at <ins>Blair Health</ins>, <ins>Onsemi</ins> & <ins>NCR Voyix</ins>
 **Languages:** Python, C/C++/C#, Java, JavaScript/TypeScript, MATLAB, SQL, HTML/CSS, Assembly, Bash \
 **Libraries:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Hugging Face, OpenCV, pgvector \
 **Frameworks:** React, Node.js, Next.js, LangChain, Supabase, FastAPI, Flask, Express.js \
-**Cloud & DevOps:** AWS(S3, EC2), GCP, Azure, Docker, Kubernetes, PostgreSQL, Redis, MongoDB, Jenkins, Git \
+**Cloud & DevOps:** AWS(S3, EC2), GCP, Azure, Docker, Kubernetes, PostgreSQL, Redis, MongoDB, Jenkins, Git 
 
 Feel free to reach out!
 
