@@ -11,5 +11,5 @@ I've worked at <ins>Blair Health</ins>, <ins>Onsemi</ins> & <ins>NCR Voyix</ins>
 
 Feel free to reach out!
 
-- Email: a6iqbal [at] uwaterloo [dot] ca
+- Email: a6iqbal@uwaterloo.ca
 - Linkedin: [https://www.linkedin.com/in/ayaan-iqbal0219](https://www.linkedin.com/in/ayaan-iqbal0219/)
